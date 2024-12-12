@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Stream keepCallAlive="true" bidirectional="true" contentType="audio/x-l16;rate=16000">wss://<your_server_url>/ws</Stream>
+</Response>
