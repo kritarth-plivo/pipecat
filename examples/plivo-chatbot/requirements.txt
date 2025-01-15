@@ -1,5 +1,9 @@
-pipecat-ai[cartesia,openai,silero,deepgram] @ git+https://github.com/pipecat-ai/pipecat.git@main
+pipecat-ai[noisereduce,elevenlabs,cartesia,openai,anthropic,silero,deepgram] @ git+https://github.com/pipecat-ai/pipecat.git@main
 fastapi
 uvicorn
 python-dotenv
 loguru
+
+flask
+duckduckgo-search
+phidata
